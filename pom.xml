@@ -11,7 +11,11 @@
     <modules>
         <module>java_junit5/JUnit5Basic</module>
         <module>java_junit5/junit5-suite</module>
-        <module>app_java</module>
+        <module>java_junit5/junit5-parallel</module>
+        <module>java_junit5/junit5-jackson</module>
+        <module>java_junit5/junit5-hamcrest</module>
+        <module>java_junit5/junit5-dynamic</module>
+        <module>java_junit5/junit5-assert</module>
     </modules>
 
     <properties>
