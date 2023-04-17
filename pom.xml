@@ -16,6 +16,7 @@
         <module>java_junit5/junit5-hamcrest</module>
         <module>java_junit5/junit5-dynamic</module>
         <module>java_junit5/junit5-assert</module>
+        <module>app_java/beginner</module>
     </modules>
 
     <properties>
