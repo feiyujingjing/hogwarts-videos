@@ -14,7 +14,6 @@ allure-java/L2/report
 *.iml
 *.ipr
 *.jar
-*.xml
 *.json
 ### Eclipse ###
 .apt_generated
