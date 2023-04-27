@@ -17,6 +17,9 @@
         <module>java_junit5/junit5-dynamic</module>
         <module>java_junit5/junit5-assert</module>
         <module>app_java/beginner</module>
+        <module>app_java/intermediate</module>
+        <module>allure-java/L2</module>
+        <module>web/webbeginner</module>
     </modules>
 
     <properties>

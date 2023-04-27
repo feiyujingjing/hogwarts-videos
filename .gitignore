@@ -1,5 +1,6 @@
 target/
 allure-java/L2/.allure
+allure-java/L2/report
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
@@ -39,3 +40,4 @@ build/
 
 ### Mac OS ###
 .DS_Store
+/allure-java/L2/.allure/
