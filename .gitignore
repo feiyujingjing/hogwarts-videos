@@ -1,4 +1,5 @@
 target/
+allure-java/L2/.allure
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
@@ -12,7 +13,8 @@ target/
 *.iml
 *.ipr
 *.jar
-
+*.xml
+*.json
 ### Eclipse ###
 .apt_generated
 .classpath
