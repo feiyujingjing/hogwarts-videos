@@ -39,4 +39,9 @@ build/
 
 ### Mac OS ###
 .DS_Store
+/allure-java/L3/.allure/
 /allure-java/L2/.allure/
+/web/webintermediate/.allure/
+*.css
+*.js
+*.yml
