@@ -19,7 +19,11 @@
         <module>app_java/beginner</module>
         <module>app_java/intermediate</module>
         <module>allure-java/L2</module>
+        <module>allure-java/L3</module>
         <module>web/webbeginner</module>
+        <module>web/webL2</module>
+        <module>web/webintermediate</module>
+        <module>web/po_advanced</module>
     </modules>
 
     <properties>

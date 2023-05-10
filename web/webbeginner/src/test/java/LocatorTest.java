@@ -49,7 +49,7 @@ public class LocatorTest {
     void locatorBycssSelector() throws InterruptedException {
         driver.get("https://ceshiren.com/");
         driver.findElement(By.cssSelector("#site-logo")).click();
-        //sleep(2000);
+        sleep(2000);
     }
 
     //xpath定位log
